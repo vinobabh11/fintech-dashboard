@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    },
+    {
+      "id": 2,
+      "title": "Mock Data"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "demo@email.com",
+      "password": "password1",
+      "name": "Jhon doe",
+      "type" : "Adminstrator"
+    }
+  ]
+}
