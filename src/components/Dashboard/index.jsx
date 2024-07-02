@@ -1,10 +1,11 @@
 import React from 'react'
 import styles from '@/styles/Dashboard.module.scss'
+import NotificationHearder from '../notificationHearder'
 
 const Dashborad = () => {
   return (
     <div className={styles.dashboard}>
-      component
+      <NotificationHearder title={'Dashboard'}/>
     </div>
   )
 }

@@ -1,0 +1,17 @@
+.notificationComonent{
+    margin: 10px 10px 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2d3746;
+    border-radius: 5px;
+    padding: 20px;
+
+    .searchComponent{
+        display: flex;
+
+        .component{
+            margin-left: 4px;
+        }
+    }
+}
